@@ -1,4 +1,4 @@
-# 🌦️ Real-Time Weather Data Pipeline  
+# 🌦️ Real-Time Weather App  
 
 ## 📌 Overview  
 This project is a **real-time weather analytics system** that fetches live **city-wise weather data** from the **OpenWeather API**, stores it in **MongoDB**, and visualizes it through an **interactive React.js dashboard**.  
