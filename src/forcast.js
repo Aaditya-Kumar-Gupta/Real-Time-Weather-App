@@ -113,18 +113,6 @@ function Forcast(props) {
                 Prediction{" "}
                 <span className="temp">{weather.weather[0].main}</span>
               </li>
-              <li>
-                Soil Temperature{" "}
-                <span className="temp">
-                  {"Loading..."}
-                </span>
-              </li>
-              <li>
-                Soil Moisture{" "}
-                <span className="temp">
-                  {"Loading..."}
-                </span>
-              </li>
             </div>
           ) : (
             <li>
