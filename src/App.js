@@ -10,11 +10,11 @@ function App() {
       </div>
       <div className="footer-info">
         | Download{" "}
-        <a href="https://github.com/ISHDEEP-CHANDIGARHUNIVERSITY/test-a1-Cody-aditya">
+        <a href="https://github.com/Aaditya-Kumar-Gupta/Real-Time-Weather-App.git">
           Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://github.com/Cody-aditya">
+        <a target="_blank" href="https://github.com/Aaditya-Kumar-Gupta">
           Aditya Kumar Gupta
         </a>{" "}
         | Student of{" "}
